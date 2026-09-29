@@ -18,9 +18,9 @@ The core idea is a **bistable magnetic latch**: a short pulse (20 ms by default)
 
 **팀 구성**: 팀 카인드랩 4인이 함께 만들었다. 팀장 윤창훈이 전체 아키텍처·ESP32 펌웨어·
 라즈베리파이 인식 엔진(이 저장소)을 맡았고, 나머지 팀원이 하드웨어 조립·문서·AI 파트를
-맡았다. 시연 영상: https://youtu.be/Ccwc9DTXhrc
+맡았다. 시연 영상: https://youtu.be/Ccwc9DTXhrc · https://youtu.be/WUN5GYFF6zI
 
-**Team**: Built by the four members of Team Kind Lab. Team lead Changhoon Yoon owned the overall architecture, the ESP32 firmware, and the Raspberry Pi recognition engine (this repository); the other members handled hardware assembly, documentation, and the AI part. Demo video: https://youtu.be/Ccwc9DTXhrc
+**Team**: Built by the four members of Team Kind Lab. Team lead Changhoon Yoon owned the overall architecture, the ESP32 firmware, and the Raspberry Pi recognition engine (this repository); the other members handled hardware assembly, documentation, and the AI part. Demo videos: https://youtu.be/Ccwc9DTXhrc · https://youtu.be/WUN5GYFF6zI
 
 현재 단계는 3×3 프로토타입 모듈 벤치 검증이며, 상위 제어기(Raspberry Pi)가
 시리얼 패턴 프로토콜(`B:XXXXXXXXX`)로 이 모듈을 구동하는 구조다.
