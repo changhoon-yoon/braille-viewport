@@ -3,6 +3,12 @@
 > **KO / EN** — 이 문서는 한국어와 영어를 병기합니다. 각 문단·표·목록마다 한국어 다음에 영어가 이어집니다.
 > This README is bilingual. Every paragraph, table, and list gives the Korean text first, followed by its English translation.
 
+<p align="center">
+  <a href="https://youtu.be/WUN5GYFF6zI"><img src="https://img.youtube.com/vi/WUN5GYFF6zI/maxresdefault.jpg" width="48%" alt="시연 영상: 기기를 움직이면 좌표에 맞는 점자가 실시간으로 올라온다 / Demo: pins rise in real time as the device moves"></a>
+  <a href="https://youtu.be/Ccwc9DTXhrc"><img src="https://img.youtube.com/vi/Ccwc9DTXhrc/maxresdefault.jpg" width="48%" alt="브라힐 뷰포트 소개 영상 / Braille Viewport intro video"></a>
+</p>
+<p align="center">▶ 이미지를 누르면 유튜브 영상이 열립니다. / Click a thumbnail to watch on YouTube.</p>
+
 **팀 카인드랩(Kind Lab)** 4인 팀 프로젝트 **브라힐 뷰포트(Braille Viewport)**의 점자 출력 모듈 펌웨어와 라즈베리파이 인식 엔진(2026-08~09).
 시각장애인을 위한 저가형 전자 점자 디스플레이를 목표로, 상용 피에조 셀 대신
 ESP32-S3 + DRV8833 + 자작 코일(못 코어 + 네오디뮴 자석)로 점자 핀을 구동한다.
